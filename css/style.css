@@ -1,0 +1,18 @@
+h1{
+    color: cornflowerblue;
+}
+
+.pie{
+    color: black;
+    font-size: small;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.itemPrincipal{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
